@@ -1,7 +1,3 @@
-Here’s a clean, professional, and informative `README.md` file you can use for your `StonkAI` project:
-
----
-
 # 📈 StonkAI: AI-Powered Stock Forecasting App
 
 **StonkAI** is a powerful Streamlit-based web application that delivers real-time stock analysis and forecasts using a combination of traditional machine learning and modern AI language models—all running **locally on CPU**. It's built for investors, students, and data enthusiasts who want deeper, explainable stock insights.
